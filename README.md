@@ -1,0 +1,3 @@
+This is a project made in the Foundations course of The Odin Project, a full-stack web development self-learning resource, which teaches the basics of HTML, CSS and JavaScript, and, later, backend development languages.
+
+The project is a recipe book, built using HTML. This project also teaches basic GitHub workflow, the use of VSCode, how to use the terminal, overall good development habits such as committing on GitHub often, commenting your code, etc.
